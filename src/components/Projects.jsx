@@ -28,8 +28,8 @@ const Projects = () => {
       title: "Portfolio Website",
       image: "/images/kassunewportfolio.jpg",
       description: "My personal portfolio built with React and Bootstrap.",
-      demo: "#",
-      code: "#",
+      code: "https://github.com/kassushale1980/Kassu-Personal-Portfolio.git",
+      demo: "https://kassuportfolio.netlify.app/",
     },
   ];
 
