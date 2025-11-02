@@ -108,7 +108,7 @@ const Projects = () => {
       title: "Evangadi Forum",
       image: "/images/Evangadi-logo.jpg",
       description: "Q&A platform built with React, Node.js, and MySQL.",
-      demo: "https://incredible-profiterole-df81ce.netlify.app/",
+      demo: "https://evangadiqateam3.netlify.app/",
       code: "https://github.com/kassushale1980/EvangadiForum-ProjectFront.git",
     },
     {
