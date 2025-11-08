@@ -44,7 +44,7 @@ const Hero = () => {
               <img
                 src="/images/kassunew-icon.jpg"
                 alt="Profile Icon"
-                style={{ width: "180px", borderRadius: "80%" }}
+                style={{ width: "200px", borderRadius: "80%" }}
               />
             </div>
           </div>
